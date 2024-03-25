@@ -96,8 +96,3 @@ RMH_RotateCamera(milliseconds, direction)
     return
 }
 
-F1:: 
-{
-    WinActivate("Roblox")
-    RMH_RotateCamera(1500, "left")
-}
